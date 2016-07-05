@@ -1,6 +1,6 @@
 # LuckyOS-Transit
 
-**Repositório temporário de transição**
+**Repositório temporário de transição (NÃO USE ELE!!!)**
 
 > Este é um repositório de uso interno.
-> **NÃO USE ELE!!!**
+

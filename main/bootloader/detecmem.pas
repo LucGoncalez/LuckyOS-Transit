@@ -1,1 +1,1 @@
-../../../src/tests/detecmem/v0.1/detecmem.pas
+../../../src/tests/detecmem/v0.2/detecmem.pas

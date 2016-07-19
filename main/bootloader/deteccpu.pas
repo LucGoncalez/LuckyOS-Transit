@@ -1,0 +1,1 @@
+../../../src/tests/deteccpu/v0.1/deteccpu.pas

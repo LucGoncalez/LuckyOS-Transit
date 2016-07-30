@@ -1,1 +1,1 @@
-../../../src/loadlos/v0.4/loadlos.pas
+../../../src/loadlos/v0.5/loadlos.pas

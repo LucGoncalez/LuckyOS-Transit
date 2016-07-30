@@ -1,1 +1,1 @@
-../../../src/libs/libs16/releases/bios/v0.1/bios12.asm
+../../../src/libs/libs16/releases/bios/v0.3/bios12.asm

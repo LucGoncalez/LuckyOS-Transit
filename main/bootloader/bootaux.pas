@@ -1,1 +1,1 @@
-../../../src/libs/libs16/releases/bootaux/v0.4/bootaux.pas
+../../../src/libs/libs16/releases/bootaux/v0.5/bootaux.pas

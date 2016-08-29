@@ -1,0 +1,1 @@
+../../../src/tests/pkernel/pkrnl06.asm

@@ -1,1 +1,1 @@
-../../../src/libs/libs16/releases/bootaux/v0.5/bootaux.asm
+../../../src/libs/libs16/releases/bootaux/v0.6/bootaux.asm

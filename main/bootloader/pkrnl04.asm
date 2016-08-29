@@ -1,1 +1,0 @@
-../../../src/tests/pkernel/pkrnl04.asm

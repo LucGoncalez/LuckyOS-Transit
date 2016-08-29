@@ -1,0 +1,1 @@
+/home/lucky/Projetos/LOS-Full/LuckyOS/src/tests/pkernel/pkrnl05.asm

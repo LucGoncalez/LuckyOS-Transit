@@ -1,1 +1,1 @@
-../../../src/tests/pkernel/pkrnl06.asm
+../../../src/tests/pkernel/pkernel.asm

@@ -1,1 +1,1 @@
-../../../../src/kernel/v0.4/src/kernel.pas
+../../../../src/kernel/v0.5/src/kernel.pas
